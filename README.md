@@ -38,6 +38,10 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 `yarn add axios`
 
+### React-modal
 
+`yarn add react-modal`
+
+`yarn add @types/react-modal -D`
 
 
