@@ -30,6 +30,10 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 `yarn add @types/styled-components -D`
 
+### Miragejs
+
+`yarn add miragejs`
+
 
 
 
