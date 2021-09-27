@@ -44,4 +44,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 `yarn add @types/react-modal -D`
 
+### Polished
+
+`yarn add polished`
 
